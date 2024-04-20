@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-laila-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/laila-choudkhuri-554078204/)](https://www.linkedin.com/in/laila-choudkhuri-554078204/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Laila-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/laila-choudkhuri-554078204/)](https://www.linkedin.com/in/laila-choudkhuri-554078204/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://www.github.com)](https://www.github.com)
 
 
