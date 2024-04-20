@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.linkedin.com/in/laila-choudkhuri-554078204/)](https://www.linkedin.com/in/laila-choudkhuri-554078204/)
-
+[![LinkedIn Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/laila-choudkhuri-554078204/)](https://www.linkedin.com/in/laila-choudkhuri-554078204/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://www.github.com)](https://www.github.com)
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lailache&count_private=true&show_icons=true&include_all_commits=true)
 
 <!--
